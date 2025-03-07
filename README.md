@@ -6,7 +6,7 @@ AI-powered automated code review and explanation tool that integrates with GitHu
 - **Automated Code Review**: Analyzes code for issues, optimizations, and best practices.
 - **AI-Powered Explanations**: Uses GPT-4 Turbo to explain code snippets.
 - **GitHub Integration**: Works with GitHub repositories to review pull requests and commits.
-- **Real-time Chatbot Assistance**: Uses WebSockets for instant AI-based coding help......
+- **Real-time Chatbot Assistance**: Uses WebSockets for instant AI-based coding help.
 
 ## Prerequisites
 Before setting up the project, ensure you have the following installed:
